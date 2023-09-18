@@ -1,0 +1,10 @@
+1. Design an arbitrage strategy on LINK/USDT between Binance and Huobi based on provided data.
+2. Code a backtesting program by yourself with Python to test your strategy. Open source backtesting framework is not allowed.
+3. Present your backtest result with risk metrics and charts.
+4. Submit your risk metrics, charts, trade logs with backtesting Python script.
+5. Post trade analysis will be a plus.
+
+* Bar data and orderbook data of a 2 hours period are attached.
+* BNC means data from Binance and HB means data from Huobi.
+* In bar data file, we only keep 1s bar with trades happened.
+* In orderbook data file, a1 means ask1 price, av1 means ask1 volume, b1 means bid1 price and bv1 means bid1 volume.
